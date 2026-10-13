@@ -1,0 +1,14 @@
+{
+  "changes": [
+    {
+      "library": "example-library",
+      "old_version": "1.0.0",
+      "new_version": "2.0.0",
+      "change_type": "removed",
+      "class": "User",
+      "method": "getName",
+      "replacement": "getFullName",
+      "description": "The getName method was removed in version 2.0.0."
+    }
+  ]
+}
