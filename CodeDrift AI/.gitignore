@@ -1,0 +1,5 @@
+# Separate testing repository
+/Test-repo/
+
+# Local frontend project outside this repository
+/pixel-perfect-replica/

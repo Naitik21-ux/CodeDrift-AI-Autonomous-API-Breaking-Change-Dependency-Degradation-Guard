@@ -1,4 +1,17 @@
+# Python virtual environments
 venv/
+.venv/
+
+# Python cache
 __pycache__/
-repositories/
+*.pyc
+
+# Environment variables
 .env
+
+# Cloned repositories
+repositories/
+
+# IDE
+.idea/
+.vscode/
